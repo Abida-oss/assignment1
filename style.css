@@ -1,0 +1,173 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+.head{
+    background-image: url("images/donation6.jpg");
+    height: 100vh;
+    background-size: cover; 
+    background-repeat: no-repeat;
+
+}
+.text{
+    padding: 150px 100px ;
+    text-align: center;
+    align-items: center;
+    color: wheat;
+}
+.change{
+    color: black;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+.sec{
+    margin: 40px;
+}
+#submit{
+    text-decoration: none;
+    background-color: olivedrab;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    color: black;
+}
+.left-box{
+    width: 150 px;
+    height: 120px;
+    border: 2px solid rgba(100, 17, 51, 0.781);
+    background-color: rgba(221, 215, 250, 0.781);
+    margin-left:20px;
+    margin-bottom: 25px;
+    text-align: center;
+   border-radius: 5px;
+
+}
+#m1{
+    color: rgba(69, 6, 32, 0.781);
+}
+.box{
+    width: 150px;
+    height: 120px;
+    background-color: rgba(221, 215, 250, 0.781);
+    margin-left:30px;
+    text-align: center;
+      border-radius: 5px;
+
+}
+.left{
+    margin-left: 28%;
+}
+.money-donate{
+    display:flex;
+}
+
+h2{
+    font-size: 30px;
+    padding: 20px 30px 40px 30px;
+    color: black;
+}
+.modify{
+    color: rgb(31, 12, 12);
+
+}
+.container h4 {
+    margin-left: 32%;
+    text-align: center;
+    width: 40%;
+    border-bottom: 2px solid gray;
+}
+h4{
+    margin-bottom: 50px;
+}
+#submit1{
+    text-align: center;
+    text-decoration: none;
+    background-color: olivedrab;
+    font-size: 20px;
+    padding: 15px;
+    margin-left: 48%;
+    border-radius: 5px;
+    color: black;
+
+}
+.boxes{
+    display: flex;
+    margin-left: 12%;
+}
+.image{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.f1{
+    height: auto;
+    width: 30%;
+    padding-bottom: 5%;
+    border-radius: 5%;
+}
+.d1{
+    background-color: rgb(182, 239, 252);
+}
+.d2{
+    background-color: rgb(240, 200, 222);
+    margin-left: 2%;
+}
+.d3{
+    background-color: rgb(199, 235, 195);
+        margin-left: 2%;
+
+}
+h3{
+    padding-top: 0%;
+    padding-left: 10%;
+}
+.form{
+    display: block;
+    height: 40%;
+    width: 60%;
+    margin: auto;
+    background-color: rgb(240, 200, 222);
+}
+
+.a1{
+    font-size: 20px;
+    margin: 10% 0%;
+}
+.email{
+    margin-left: 25%;
+    background-color: blanchedalmond;
+    padding: 1% 0% 1% 1%;
+    border-radius: 5px 0px 0px 5px;
+    border: 0px none white;
+
+
+
+}
+.btn{
+    padding: 1% 5%;
+    border-radius: 0px 5px 5px 0px;
+    border: 0px none white;
+    background-color: rgb(182, 212, 140);;
+
+
+
+}
+.footer{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Yellowtail', cursive;
+    padding: 1% 0% 0% 0%;
+    margin-top: 10%;
+    height: 30%;
+    width: 100%;
+    background-color: rgb(95, 67, 30);
+}
+#none{
+    justify-content: center;
+    margin: 0%;
+}
